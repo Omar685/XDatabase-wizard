@@ -11,5 +11,5 @@ python.exe main.py
 ```
 for test speed time execute application
 ```
-python.exe main.py
+python.exe test.py
 ```
