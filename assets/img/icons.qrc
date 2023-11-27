@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="logos">
+    <file>images.png</file>
+    <file>logo-black.png</file>
+    <file>logo-color.png</file>
+    <file>logo-no-background.png</file>
+    <file>logo-white.png</file>
+  </qresource>
+</RCC>

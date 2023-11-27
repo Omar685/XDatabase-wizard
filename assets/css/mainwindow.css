@@ -1,0 +1,10 @@
+QMainWindow {
+	background-color:#fff;
+}
+QTextEdit {
+	background-color:#fff;
+}
+
+#executeBtn {
+  background-color: rgb(16, 145, 16);
+}

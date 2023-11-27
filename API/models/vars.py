@@ -1,0 +1,1 @@
+INFORMATION = """ <center>Hi to Database Wizard</center>"""
